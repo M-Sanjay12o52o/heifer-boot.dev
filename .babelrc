@@ -1,0 +1,6 @@
+// this tells Babel to transpile your code based on what's needed for older browsers.
+// we can set targets for `preset-env`.
+// see the docs for more info.
+{
+  "presets": ["@babel/preset-env"]
+}
